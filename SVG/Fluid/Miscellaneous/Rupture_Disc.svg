@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+/*******************************************************************************
+* Copyright (c) 2010-2024 ITER Organization.
+* All rights reserved. This program and the accompanying materials
+* are made available under the terms of the Eclipse Public License v1.0
+* which accompanies this distribution, and is available at
+* http://www.eclipse.org/legal/epl-v10.html
+******************************************************************************/
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="59" viewBox="0 0 22.5 44.25" xml:space="preserve" version="1.1" id="svg18" style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">
+    <style type="text/css" id="style2">
+        .st2{stroke:#000;stroke-linecap:butt;stroke-width:.708661}
+    </style>
+    <g id="g16" transform="matrix(1.49345 0 0 1.51305 -33.55 -.39)" style="stroke-width:.66524005">
+        <g id="group1-1" transform="translate(22.913 -21.235)" style="stroke-width:.66524005">
+            <g id="shape1-2" style="stroke-width:.66524005">
+                <path d="M0 50.29h14.17V21.94H0Z" id="path8" style="fill:#fff;stroke-width:.66524005"/>
+                <path d="M0 50.29h14.17V21.94H0v28.35" class="st2" id="path10" style="stroke:#000;stroke-width:.89557928;stroke-linecap:butt;stroke-miterlimit:3;stroke-dasharray:none"/>
+                <path d="M3.54 50.29V43.2a7.087 7.087-180 0 0 0-14.17v-7.09" class="st2" id="path12" style="stroke:#000;stroke-width:.89557928;stroke-linecap:butt;stroke-miterlimit:3;stroke-dasharray:none"/>
+            </g>
+        </g>
+    </g>
+</svg>
