@@ -9,7 +9,8 @@ output_file = "Phoebus_Symbols.md"
 # Helper function to create markdown image tag with a caption
 def create_image_tag_with_caption(image_path):
     image_name = os.path.basename(image_path)
-    image_tag = f"![{image_name}]({image_path})"
+    formatted_image_path = image_path.replace(' ', '%20').replace('\\', '/')
+    image_tag = f"![{image_name}]({formatted_image_path})"
     caption = f"*{image_name}*"
     return f"{image_tag}\n\n{caption}"
 
